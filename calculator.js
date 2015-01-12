@@ -75,7 +75,7 @@ document.querySelector(".equate").addEventListener("click", function(){
 		});
 	}
 
-	output.innerHTML = result.toString();
+	output.innerHTML = result.toFixed(2).toString();
 
 	resultDisplayed = true;
 });

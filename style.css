@@ -12,19 +12,18 @@ body {
 h1{
 	margin: 60px 0 40px;
 	font-size: 50px;
-	font-weight: 200;
+	font-weight: 100;
 }
 
 .buttons {
-	width: 360px;
 	margin: 25px auto;
 }
 
 #output {
-	margin: 0 auto;
+	margin: 5px auto 0;
 	border: 2px solid #2980b9;
 	border-radius: 5px;
-	width: 340px;
+	width: 300px;
 	height: 60px;
 	font-size: 45px;
 	text-align: right;
@@ -34,14 +33,14 @@ h1{
 }
 
 .row {
-	margin: 25px 0;
+	margin: 20px 0;
 }
 
 .row-cell{
 	display: inline;
 	font-size: 45px;
 	margin: 1px;
-	padding: 5px 25px;
+	padding: 5px 20px;
 	border: 2px solid #2980b9;
 	border-radius: 5px;
 	outline: none;
